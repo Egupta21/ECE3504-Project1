@@ -1,0 +1,15 @@
+# ninja log v5
+0	448	6875053163460159	MipsAssembler/CMakeFiles/myAssembler.dir/myAssembler.cpp.obj	1d7cde2eae8a7a25
+449	553	6875053164333026	MipsAssembler/myAssembler.exe	f8b2cce6a7cdbd09
+0	580	6875053640236160	MipsAssembler/CMakeFiles/myAssembler.dir/myAssembler.cpp.obj	1d7cde2eae8a7a25
+581	720	6875053641407218	MipsAssembler/myAssembler.exe	f8b2cce6a7cdbd09
+0	455	6875053799109460	MipsAssembler/CMakeFiles/myAssembler.dir/myAssembler.cpp.obj	1d7cde2eae8a7a25
+455	564	6875053800020292	MipsAssembler/myAssembler.exe	f8b2cce6a7cdbd09
+0	463	6875054154088261	MipsAssembler/CMakeFiles/myAssembler.dir/myAssembler.cpp.obj	1d7cde2eae8a7a25
+464	609	6875054155303051	MipsAssembler/myAssembler.exe	f8b2cce6a7cdbd09
+0	453	6875054505026667	MipsAssembler/CMakeFiles/myAssembler.dir/myAssembler.cpp.obj	1d7cde2eae8a7a25
+453	561	6875054505927558	MipsAssembler/myAssembler.exe	f8b2cce6a7cdbd09
+1	470	6875056696783139	MipsAssembler/CMakeFiles/myAssembler.dir/myAssembler.cpp.obj	1d7cde2eae8a7a25
+471	623	6875056698084321	MipsAssembler/myAssembler.exe	f8b2cce6a7cdbd09
+1	483	6875056748500001	MipsAssembler/CMakeFiles/myAssembler.dir/myAssembler.cpp.obj	1d7cde2eae8a7a25
+483	595	6875056749450863	MipsAssembler/myAssembler.exe	f8b2cce6a7cdbd09

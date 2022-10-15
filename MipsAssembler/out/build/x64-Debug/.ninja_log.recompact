@@ -1,0 +1,4 @@
+# ninja log v5
+1	475	6875052960098438	MipsAssembler/CMakeFiles/myAssembler.dir/myAssembler.cpp.obj	1d7cde2eae8a7a25
+475	627	6875052961359579	MipsAssembler/myAssembler.exe	f8b2cce6a7cdbd09
+0	7	0	clean	8c45b54705a541e8

@@ -1,0 +1,5 @@
+C:/Users/Eashan/source/repos/MipsAssembler/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/Eashan/source/repos/MipsAssembler/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Eashan/source/repos/MipsAssembler/out/build/x64-Debug/MipsAssembler/CMakeFiles/myAssembler.dir
+C:/Users/Eashan/source/repos/MipsAssembler/out/build/x64-Debug/MipsAssembler/CMakeFiles/edit_cache.dir
+C:/Users/Eashan/source/repos/MipsAssembler/out/build/x64-Debug/MipsAssembler/CMakeFiles/rebuild_cache.dir
